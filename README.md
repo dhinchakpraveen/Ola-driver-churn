@@ -78,7 +78,7 @@ The project consists of **Python scripts** that perform the following tasks:
 
 ## 📂 Repository Contents
 
-- `data/` → Contains dataset (`ola_driver.csv`)  
+
 - `notebooks/` → Exploratory data analysis & model building  
 - `scripts/` → Python scripts for preprocessing, modeling, evaluation  
 - `README.md` → Project documentation  
